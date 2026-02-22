@@ -81,7 +81,7 @@ function forms(formSelector, modalTimerId) {
 		chatId = '8434481394'
 
 	const message = {
-		success: 'Thanks for contacting with us',
+		success: 'Thanks you',
 		failure: 'Something went wrong',
 	}
 
